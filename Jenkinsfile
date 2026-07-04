@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "moin9592/softapp-Lab"
+        IMAGE_NAME = "moin9592/lab"
         TAG = "035"
 
         // Jenkins credentials IDs
